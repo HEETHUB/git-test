@@ -1,2 +1,2 @@
 hello SSAFY
-git-test-cloned에서 수정
+git-test-cloned에서 수정!
