@@ -1,2 +1,6 @@
 hello SSAFY
+<<<<<<< HEAD
 git-test-cloned에서 수정!
+=======
+git-test(최초)에서 수정!!
+>>>>>>> 3aea4870cfa207cebaf3bcf7c12c5e54543b6fb2
